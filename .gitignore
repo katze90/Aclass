@@ -1,5 +1,7 @@
 ﻿이건 비밀이야.txt
 *.txt
+!이건 공유됨.txt(예외처리)
+/(최상위폴더)test(디렉토리)/*(모든).pdf
 # Created by https://www.gitignore.io/api/java,windows,eclipse
 # Edit at https://www.gitignore.io/?templates=java,windows,eclipse
 
